@@ -1,6 +1,7 @@
 # Litcoder_NonCS
-
-<h2>How to Use</h2>
+<h2>Hello NonCS Coders! </h2>
+The Input handling and Output formatting are done out of the functions and the code is fully optimized!
+<h3>How to Use</h3>
 To access the solutions, follow these steps:
 
 1. Clone the repository to your local machine:<br>
